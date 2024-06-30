@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MediNetApplication {
 
 	public static void main(String[] args) {
-
 		 SpringApplication.run(MediNetApplication.class, args);
 	}
 }
